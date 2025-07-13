@@ -128,19 +128,4 @@ class Developer {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yslx0&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 **FOCO ATUAL**
-
-\`\`\`bash
-$ current_focus --status
-> Aprimorando habilidades em JavaScript moderno
-> Explorando frameworks PHP avançados  
-> Construindo projetos full-stack
-> Contribuindo para open source
-\`\`\`
-
----
+ 
