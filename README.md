@@ -9,269 +9,177 @@
    ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
 \`\`\`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DIGITAL%20ARCHITECT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Construindo%20o%20futuro%20uma%20linha%20de%20código%20por%20vez&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;New+York+Based;Code+%7C+Innovation+%7C+Automation" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌌 **INICIANDO SEQUÊNCIA DE BOOT...**
-
-\`\`\`bash
-> Carregando perfil...                    [████████████████████] 100%
-> Inicializando criatividade...           [████████████████████] 100%  
-> Conectando com a matrix...              [████████████████████] 100%
-> Status: ONLINE ✅
-\`\`\`
-
-</div>
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 **QUEM SOU EU?**
-
-\`\`\`json
-{
-  "nome": "YSLX",
-  "localização": "🗽 New York",
-  "status": "🔥 ATIVO",
-  "modo": "CRIATIVO",
-  "energia": "∞",
-  "missão": "Transformar ideias em realidade digital"
-}
-\`\`\`
-
-**🧬 DNA TECNOLÓGICO:**
-- 🎨 **Frontend Alchemist** - Transformo designs em experiências
-- ⚡ **Backend Wizard** - Construo a magia por trás das cortinas  
-- 🔧 **Problem Solver** - Se existe um bug, eu encontro a solução
-- 🌱 **Eternal Learner** - Sempre evoluindo, sempre crescendo
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ **ARSENAL TECNOLÓGICO**
-
-<div align="center">
-
-\`\`\`
-    🎨 FRONTEND REALM
-    ╭─────────────────╮
-    │  HTML5    ████  │
-    │  CSS3     ████  │  
-    │  JS       ████  │
-    │  Bootstrap ███  │
-    ╰─────────────────╯
-    
-    ⚙️ BACKEND DIMENSION  
-    ╭─────────────────╮
-    │  PHP      ████  │
-    │  Apache   ███   │
-    │  MySQL    ██    │
-    ╰─────────────────╯
-\`\`\`
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎮 **GAME STATS**
-
-<img src="https://github-readme-stats.vercel.app/api?username=yslx0&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=⚡%20POWER%20LEVEL" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yslx0&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&custom_title=🧬%20CODE%20DNA" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌊 **FLUXO DE CONTRIBUIÇÕES**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yslx0&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=🚀%20JORNADA%20DIGITAL" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **CONQUISTAS DESBLOQUEADAS**
-
-<img src="https://github-profile-trophy.vercel.app/?username=yslx0&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **MISSÕES ATIVAS**
-
-\`\`\`
-🔮 QUEST LOG:
-├── 📚 Dominar React & Node.js           [▓▓▓░░░░░░░] 30%
-├── 🌟 Contribuir para 10 projetos OSS   [▓▓░░░░░░░░] 20%  
-├── 🚀 Lançar projeto revolucionário     [▓▓▓▓▓░░░░░] 50%
-├── 🤝 Conectar com 100 devs             [▓▓▓▓░░░░░░] 40%
-└── 📝 Escrever 20 artigos técnicos      [▓░░░░░░░░░] 10%
-\`\`\`
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 **PORTAIS DE CONEXÃO**
-
-<a href="mailto:seu-email@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20EMAIL-FF6B6B?style=for-the-badge&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/seu-linkedin">
-  <img src="https://img.shields.io/badge/💼%20LINKEDIN-4ECDC4?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/seu-twitter">
-  <img src="https://img.shields.io/badge/🐦%20TWITTER-45B7D1?style=for-the-badge&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/seu-instagram">
-  <img src="https://img.shields.io/badge/📸%20INSTAGRAM-F093FB?style=for-the-badge&logoColor=white" alt="Instagram"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 **GALERIA DE PROJETOS**
+## 🔧 **STACK TECNOLÓGICO**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 **PROJETO ALPHA**
+### **FRONTEND**
+\`\`\`javascript
+const frontend = {
+  languages: {
+    HTML5: "████████████████████ 95%",
+    CSS3:  "████████████████████ 90%", 
+    JavaScript: "███████████████████ 85%"
+  },
+  frameworks: {
+    Bootstrap: "██████████████████ 80%"
+  }
+}
 \`\`\`
-Status: 🔥 Em desenvolvimento
-Tech: HTML, CSS, JS
-Desc: Interface futurística
-\`\`\`
-<a href="https://github.com/yslx0/projeto-alpha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yslx0&repo=projeto-alpha&theme=synthwave&hide_border=true" width="100%"/>
-</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ **PROJETO BETA**  
+### **BACKEND**
+\`\`\`php
+<?php
+$backend = [
+  'languages' => [
+    'PHP' => '████████████████████ 90%',
+    'SQL' => '██████████████████ 80%'
+  ],
+  'servers' => [
+    'Apache' => '███████████████████ 85%'
+  ],
+  'databases' => [
+    'MySQL' => '██████████████████ 80%'
+  ]
+];
+?>
 \`\`\`
-Status: ✅ Concluído
-Tech: PHP, MySQL
-Desc: Sistema revolucionário
-\`\`\`
-<a href="https://github.com/yslx0/projeto-beta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yslx0&repo=projeto-beta&theme=synthwave&hide_border=true" width="100%"/>
-</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-## 🎵 **SOUNDTRACK ATUAL**
+## 📊 **ESTATÍSTICAS**
 
-\`\`\`
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-🎧 Tocando agora: "Synthwave Coding Session"
-🎵 Próxima: "Lo-fi Hip Hop for Programming"
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-\`\`\`
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yslx0&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yslx0&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
+## 💻 **LINGUAGENS EM DETALHES**
+
 <div align="center">
 
-## 💭 **FILOSOFIA DE CÓDIGO**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
----
-
+### **HTML5**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+\`\`\`html
+<!-- Estruturação semântica e acessível -->
+<main>
+  <section class="hero">
+    <h1>Criando experiências web modernas</h1>
+  </section>
+</main>
 \`\`\`
-"Não é sobre o código que você escreve,
- é sobre os problemas que você resolve
- e as vidas que você impacta."
-                    - YSLX
+
+### **CSS3**
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+\`\`\`css
+/* Design responsivo e animações fluidas */
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  transition: all 0.3s ease;
+}
+\`\`\`
+
+### **JavaScript**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+\`\`\`javascript
+// Lógica interativa e manipulação do DOM
+const createInteractiveExperience = () => {
+  document.addEventListener('DOMContentLoaded', () => {
+    console.log('Ready to build amazing things!');
+  });
+};
+\`\`\`
+
+### **PHP**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+\`\`\`php
+<?php
+// Backend robusto e APIs eficientes
+class Developer {
+    public function buildSolution($problem) {
+        return $this->analyze($problem)
+                   ->code()
+                   ->test()
+                   ->deploy();
+    }
+}
+?>
 \`\`\`
 
 </div>
 
 ---
 
+## 🛠️ **FERRAMENTAS & AMBIENTE**
+
 <div align="center">
 
-## 🌟 **EASTER EGG**
-
-<details>
-<summary>🔍 Clique para revelar o segredo...</summary>
-
-\`\`\`
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⡄⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⣸⣿⡏⠀⠀⠀⣠⣶⣾⣿⣿⣿⠿⠿⠿⢿⣿⣿⣿⣄⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁⠀⠀⢰⣿⣿⣯⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣷⡄⠀
-    ⠀⠀⣀⣤⣴⣶⣶⣿⡟⠀⠀⠀⢸⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⠀
-    ⠀⢰⣿⡟⠋⠉⣹⣿⡇⠀⠀⠀⠘⣿⣿⣿⣿⣷⣦⣤⣤⣤⣶⣶⣶⣶⣿⣿⣿⠀
-    ⠀⢸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀
-    ⠀⣸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠉⠻⠿⣿⣿⣿⣿⡿⠿⠿⠛⢻⣿⡇⠀⠀
-    ⠀⣿⣿⠁⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣧⠀⠀
-    ⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀
-    ⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀
-    ⠀⢿⣿⡆⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀
-    ⠀⠸⣿⣧⡀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠃⠀⠀
-    ⠀⠀⠛⢿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⣰⣿⣿⣷⣶⣶⣶⣶⠶⠀⢠⣿⣿⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⣽⣿⡏⠁⠀⠀⢸⣿⡇⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⢹⣿⡆⠀⠀⠀⣸⣿⠇⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⣿⠁⠀⠈⠻⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-    🎉 PARABÉNS! Você encontrou o easter egg!
-    🏆 Achievement Unlocked: "Explorador Curioso"
-    💎 Você ganhou +100 pontos de curiosidade!
-\`\`\`
-
-</details>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
 ---
 
+## 📈 **ATIVIDADE**
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yslx0&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
-**💫 Obrigado por visitar meu universo digital! 💫**
+</div>
 
-![](https://komarev.com/ghpvc/?username=yslx0&color=blueviolet&style=for-the-badge&label=EXPLORADORES)
+---
+
+## 🎯 **FOCO ATUAL**
+
+\`\`\`bash
+$ current_focus --status
+> Aprimorando habilidades em JavaScript moderno
+> Explorando frameworks PHP avançados  
+> Construindo projetos full-stack
+> Contribuindo para open source
+\`\`\`
+
+---
+
+<div align="center">
+
+## 📫 **CONTATO**
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
+
+---
+
+**"Code is poetry written in logic"**
+
+![Visitor Count](https://profile-counter.glitch.me/yslx0/count.svg)
 
 </div>
