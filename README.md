@@ -15,30 +15,7 @@
 
 ---
 
-## 🔧 **STACK TECNOLÓGICO**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### **FRONTEND**
-\`\`\`javascript
-const frontend = {
-  languages: {
-    HTML5: "████████████████████ 95%",
-    CSS3:  "████████████████████ 90%", 
-    JavaScript: "███████████████████ 85%"
-  },
-  frameworks: {
-    Bootstrap: "██████████████████ 80%"
-  }
-}
-\`\`\`
-
-</td>
-<td width="50%" valign="top">
-
-### **BACKEND**
 \`\`\`php
 <?php
 $backend = [
@@ -167,19 +144,3 @@ $ current_focus --status
 \`\`\`
 
 ---
-
-<div align="center">
-
-## 📫 **CONTATO**
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
-
----
-
-**"Code is poetry written in logic"**
-
-![Visitor Count](https://profile-counter.glitch.me/yslx0/count.svg)
-
-</div>
