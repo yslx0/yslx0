@@ -1,46 +1,43 @@
-<!-- README Neon Simples - Foco em Desenvolvimento Web -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&lines=lucas+%E2%80%94+dev+desde+os+11+anos." alt="typing" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+</div>
+
+---
+
+```
+15 anos. 4 anos de código.
+Construindo interfaces e aprendendo sem parar.
+```
+
+---
+
+**stack**
+
+`C` `Python` `HTML` `CSS` `JavaScript` `TypeScript` `Ruby` `Lua`
+
+---
+
+**stats**
 
 <div align="center">
 
-<h1 style="color:#00FFFF;">✨ Desenvolvedor Web ✨</h1>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=yslx0&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=000000"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yslx0&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=000000"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=400&lines=Web+Developer;Frontend+%7C+Backend;Neon+Style+Lover;HTML+%2F+CSS+%2F+JavaScript;Criando+interfaces+únicas" alt="Typing SVG" />
-
----
-
-### 💡 Sobre mim
-
-💻 Desenvolvedor focado em **interfaces modernas**  
-🌐 Apaixonado por **HTML, CSS, JavaScript e design criativo**  
-🎯 Buscando sempre transformar ideias em experiências visuais incríveis
+</div>
 
 ---
 
-### 🛠️ Tecnologias
+**contato**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+[portfolio](https://yslx0.github.io) · [discord](https://discord.gg/)
 
 ---
 
-### 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yslx0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000)
-
----
-
-### 📫 Contato
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yslx0.github.io)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-
----
-
-### ⚡ Frase
-
-> "Código não é só lógica — é arte com luz neon."
-
+<div align="center">
+<sub>— código é arte.</sub>
 </div>
