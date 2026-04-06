@@ -9,7 +9,7 @@
 ---
 
 ```
-15 anos. 4 anos de código.
+9 anos de código.
 Construindo interfaces e aprendendo sem parar.
 ```
 
