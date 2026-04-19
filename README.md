@@ -72,16 +72,6 @@ filosofia   →  código é arte. escrever bem importa tanto quanto rodar.
 
 ---
 
-## `// conquistas`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yslx0&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-
-</div>
-
----
-
 ## `// contato`
 
 <div align="center">
