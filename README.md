@@ -364,16 +364,21 @@ Bracket Pair Color · Material Icon Theme
 </details>
 
 ---
-
 <!-- ══════════════════════════════════  SPOTIFY  ══════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+ouvindo+agora&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=soundtrack+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+spotify&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=trilha+sonora+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 <br/><br/>
 
-[![Spotify](https://spotify-github-profile.kittinan.app/wrap/api/v1/fetch/top-tracks-compact?uid=31sk3jvyirbtvi3bqvxblzuaqeiaI&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinan.app/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
 
-> 💡 conecte em [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+<br/><br/>
+
+[![Top Tracks](https://spotify-github-profile.kittinan.app/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=default)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
+
+<br/><br/>
+
+[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31sk3jvyirbtvi3bqvxblzuaqeia&count=5)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
 
 </div>
 
