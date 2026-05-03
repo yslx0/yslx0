@@ -369,52 +369,27 @@ Bracket Pair Color · Material Icon Theme
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+spotify&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=trilha+sonora+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 
-<br/><br/>
+<br><br>
 
-<!-- NOW PLAYING -->
-[![Spotify](https://spotify-github-profile.kittinan.app/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
-
-<br/><br/>
-
-<!-- TOP TRACKS -->
-[![Top Tracks](https://spotify-github-profile.kittinan.app/api/view/top?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&background_color=0d0d0d&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
-
-<br/><br/>
-
-<!-- TOP ARTISTS -->
-[![Top Artists](https://spotify-github-profile.kittinan.app/api/view/top-artists?uid=31sk3jvyirbtvi3bqvxblzuaqeia&theme=novatorem&background_color=0d0d0d&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
-
-<br/><br/>
-
-<!-- RECENTLY PLAYED -->
-[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31sk3jvyirbtvi3bqvxblzuaqeia&count=5&unique=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
-
-<br/><br/>
-
-<!-- FOLLOW BUTTON -->
 <a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
-<img src="https://img.shields.io/badge/◈_FOLLOW_ON_SPOTIFY-e02020?style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true">
 </a>
 
-<br/><br/>
+<br><br>
 
-```bash
-🎧 uid: 31sk3jvyirbtvi3bqvxblzuaqeia
-🎵 status: ouvindo música enquanto builda
-🔥 vibe: código + madrugada + fone no máximo
+<a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=false&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=e02020&bar_color_cover=true">
+</a>
 
-<!-- ══════════════════════════════════  CONTACT  ══════════════════════════════════ -->
+<br><br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+contato&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=onde+me+encontrar&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
-<br/><br/>
+<a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
+<img src="https://img.shields.io/badge/FOLLOW%20ON%20SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-e02020?style=for-the-badge&logoColor=white)](https://yslx0.github.io)
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yslx0)
-[![Discord](https://img.shields.io/badge/◈_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![guns.lol](https://img.shields.io/badge/◈_GUNS.LOL%2F35W1-e02020?style=for-the-badge&logo=firefox&logoColor=white)](https://guns.lol/35w1)
+</div>
 
-<br/>
+---
 
 ```
 📬  prefiro  →  GitHub Issues · Discord · Pull Requests
