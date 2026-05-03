@@ -363,26 +363,45 @@ Bracket Pair Color · Material Icon Theme
 <br/>
 </details>
 
----
 <!-- ══════════════════════════════════  SPOTIFY  ══════════════════════════════════ -->
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+spotify&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=trilha+sonora+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
+
 <br/><br/>
 
+<!-- NOW PLAYING -->
 [![Spotify](https://spotify-github-profile.kittinan.app/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
 
 <br/><br/>
 
-[![Top Tracks](https://spotify-github-profile.kittinan.app/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=default)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
+<!-- TOP TRACKS -->
+[![Top Tracks](https://spotify-github-profile.kittinan.app/api/view/top?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&background_color=0d0d0d&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
 
 <br/><br/>
 
-[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31sk3jvyirbtvi3bqvxblzuaqeia&count=5)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
+<!-- TOP ARTISTS -->
+[![Top Artists](https://spotify-github-profile.kittinan.app/api/view/top-artists?uid=31sk3jvyirbtvi3bqvxblzuaqeia&theme=novatorem&background_color=0d0d0d&bar_color=e02020&bar_color_cover=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
 
-</div>
+<br/><br/>
 
----
+<!-- RECENTLY PLAYED -->
+[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31sk3jvyirbtvi3bqvxblzuaqeia&count=5&unique=true)](https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia)
+
+<br/><br/>
+
+<!-- FOLLOW BUTTON -->
+<a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
+<img src="https://img.shields.io/badge/◈_FOLLOW_ON_SPOTIFY-e02020?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```bash
+🎧 uid: 31sk3jvyirbtvi3bqvxblzuaqeia
+🎵 status: ouvindo música enquanto builda
+🔥 vibe: código + madrugada + fone no máximo
 
 <!-- ══════════════════════════════════  CONTACT  ══════════════════════════════════ -->
 
