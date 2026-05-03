@@ -22,17 +22,12 @@
 <br><br>
 
 <a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020" width="100%" alt="Spotify">
 </a>
 <br><br>
 
 <a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=false&theme=default&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=e02020&bar_color_cover=true">
-</a>
-<br><br>
-
-<a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
-<img src="https://img.shields.io/badge/◈_FOLLOW_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/◈_FOLLOW_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow">
 </a>
 <br><br>
 
