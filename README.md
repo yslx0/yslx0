@@ -1,38 +1,15 @@
-<!-- ══════════════════════════════════ HEADER ══════════════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=e02020,0d0d0d,1a0000,e02020&height=280&section=header&text=yslx0&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&fontSize=90&desc=35w1%20%C2%B7%20dev%20%2F%20builder%20%2F%20brasil%20%F0%9F%87%A7%F0%9F%87%B7&descAlign=50&descAlignY=76&descSize=18&stroke=e02020&strokeWidth=2" width="100%" />
-</div>
 
-<!-- TYPING -->
-<div align="center">
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=21&duration=2200&pause=1600&color=E02020&background=00000000&center=true&vCenter=true&width=720&height=50&lines=dev+%2F+designer+%2F+arquiteto+de+experi%C3%AAncias.;interfaces+que+n%C3%A3o+apenas+funcionam%2C+impressionam.;TypeScript+%7C+Python+%7C+C+%7C+e+o+que+vier.;c%C3%B3digo+%C3%A9+arte.+escrevo+poesia+em+l%C3%B3gica.;35w1+%40+guns.lol+%E2%80%94+uid+1686386." alt="typing" />
-<br/><br/>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yslx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yslx0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yslx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-e02020?style=for-the-badge&logoColor=white)](https://yslx0.github.io)
-[![GitHub](https://img.shields.io/badge/◈_@yslx0-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yslx0)
-[![guns.lol](https://img.shields.io/badge/◈_guns.lol%2F35w1-1a0000?style=for-the-badge&logo=firefox&logoColor=e02020)](https://guns.lol/35w1)
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yslx0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=yslx0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- SPOTIFY -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+spotify&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=trilha+sonora+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
-<br><br>
-
-<a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sk3jvyirbtvi3bqvxblzuaqeia&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020" width="100%" alt="Spotify">
-</a>
-<br><br>
-
-<a href="https://open.spotify.com/user/31sk3jvyirbtvi3bqvxblzuaqeia">
-  <img src="https://img.shields.io/badge/◈_FOLLOW_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow">
-</a>
-<br><br>
-
-```bash
-🎧 uid: 31sk3jvyirbtvi3bqvxblzuaqeia
-🎵 status: ouvindo enquanto builda
-🌙 vibe: código + madrugada + fone no máximo
-🔥 tema: yslx0 red edition
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
