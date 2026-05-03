@@ -4,21 +4,21 @@
 ████████████████████████████████████████████████████████████████████████████████
 -->
 
-<!-- ══════════════════════════  HEADER  ══════════════════════════ -->
+<!-- ══════════════════════════════════  HEADER  ══════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=e02020,0d0d0d,1a0000,e02020&height=300&section=header&text=yslx0&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&fontSize=90&desc=35w1%20%C2%B7%20dev%20%2F%20builder%20%2F%20brasil%20%F0%9F%87%A7%F0%9F%87%B7&descAlign=50&descAlignY=75&descSize=18&stroke=e02020&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=e02020,0d0d0d,1a0000,e02020&height=280&section=header&text=yslx0&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&fontSize=90&desc=35w1%20%C2%B7%20dev%20%2F%20builder%20%2F%20brasil%20%F0%9F%87%A7%F0%9F%87%B7&descAlign=50&descAlignY=76&descSize=18&stroke=e02020&strokeWidth=2" width="100%" />
 
 </div>
 
-<!-- ══════════════════════════  TYPING + SOCIAL  ══════════════════════════ -->
+<!-- ══════════════════════════════════  TYPING  ══════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=22&duration=2000&pause=1500&color=E02020&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=dev+%2F+designer+%2F+arquiteto+de+experi%C3%AAncias.;interfaces+que+n%C3%A3o+apenas+funcionam%2C+impressionam.;TypeScript+%7C+Python+%7C+C+%7C+e+o+que+vier.;c%C3%B3digo+%C3%A9+arte.+escrevo+poesia+em+l%C3%B3gica.;35w1+%40+guns.lol+%E2%80%94+uid+1686386" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=21&duration=2200&pause=1600&color=E02020&background=00000000&center=true&vCenter=true&width=720&height=50&lines=dev+%2F+designer+%2F+arquiteto+de+experi%C3%AAncias.;interfaces+que+n%C3%A3o+apenas+funcionam%2C+impressionam.;TypeScript+%7C+Python+%7C+C+%7C+e+o+que+vier.;c%C3%B3digo+%C3%A9+arte.+escrevo+poesia+em+l%C3%B3gica.;35w1+%40+guns.lol+%E2%80%94+uid+1686386." alt="typing" />
 
 <br/><br/>
 
@@ -31,41 +31,61 @@
 
 <br/>
 
-<!-- ══════════════════════════  VIEW COUNTER  ══════════════════════════ -->
+<!-- ══════════════════════════════════  VIEW COUNTER  ══════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d,1a0000,0d0d0d&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e02020,1a0000,e02020&height=2" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&duration=3000&pause=2000&color=E02020&background=00000000&center=true&vCenter=true&width=450&height=28&lines=👁+VOCÊ+ESTÁ+AQUI.+ISSO+IMPORTA.;👁+CADA+VIEW+É+UMA+PESSOA+REAL.;👁+OBRIGADO+POR+APARECER." alt="counter label" />
+<!-- ANIMATED LABEL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=12&duration=2800&pause=2200&color=E02020&background=00000000&center=true&vCenter=true&width=480&height=26&lines=👁+VOCÊ+ESTÁ+AQUI.+ISSO+IMPORTA.;👁+CADA+VIEW+É+UMA+PESSOA+REAL.;👁+OBRIGADO+POR+APARECER.;👁+MAIS+UMA+VIEW+REGISTRADA." alt="label" />
 
 <br/><br/>
 
+<!-- MAIN COUNTER — reliable, never breaks -->
 <a href="https://github.com/yslx0">
-  <img src="https://komarev.com/ghpvc/?username=yslx0&label=◆+VISITAS+AO+PERFIL&color=e02020&style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://komarev.com/ghpvc/?username=yslx0&label=◆+VISITAS+AO+PERFIL&color=e02020&style=for-the-badge&labelColor=0d0d0d" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyslx0&query=%24.followers&label=◆+SEGUIDORES&color=161b22&style=flat-square&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+<!-- STATS BADGES — using native GitHub shields (reliable) -->
+<a href="https://github.com/yslx0?tab=followers">
+  <img src="https://img.shields.io/github/followers/yslx0?label=◆+SEGUIDORES&style=flat-square&color=161b22&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyslx0&query=%24.public_repos&label=◆+REPOS&color=161b22&style=flat-square&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+<a href="https://github.com/yslx0?tab=repositories">
+  <img src="https://img.shields.io/badge/◆_REPOS-ver_tudo-161b22?style=flat-square&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/yslx0?label=◆+STARS&style=flat-square&color=161b22&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+<a href="https://github.com/yslx0">
+  <img src="https://img.shields.io/github/stars/yslx0?label=◆+STARS&style=flat-square&color=161b22&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/◆_STATUS-ONLINE-e02020?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/◆_STATUS-ONLINE-e02020?style=flat-square&labelColor=0d0d0d&logoColor=white" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d,1a0000,0d0d0d&height=3" width="100%"/>
+<!-- LAST COMMIT — animated freshness indicator -->
+<a href="https://github.com/yslx0">
+  <img src="https://img.shields.io/github/last-commit/yslx0/yslx0?label=◆+último+commit&style=flat-square&color=1a0000&labelColor=0d0d0d&logo=github&logoColor=e02020" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/◆_DESDE-2022-e02020?style=flat-square&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/◆_BASE-BRASIL+🇧🇷-e02020?style=flat-square&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e02020,1a0000,e02020&height=2" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
+<!-- ══════════════════════════════════  SNAKE  ══════════════════════════════════ -->
 
 <div align="center">
 
@@ -81,12 +101,10 @@
 
 ---
 
-<!-- ══════════════════════════  WHOAMI  ══════════════════════════ -->
+<!-- ══════════════════════════════════  WHOAMI  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+whoami&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=alias+·+role+·+location&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+whoami&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=alias+·+role+·+location&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 </div>
 
 <br/>
@@ -106,38 +124,49 @@ const yslx0 = {
 
 ---
 
-<!-- ══════════════════════════  STACK  ══════════════════════════ -->
+<!-- ══════════════════════════════════  STACK  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+stack&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=linguagens+·+frameworks+·+infra&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,c,java,ruby,lua&theme=dark&perline=7" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,figma&theme=dark&perline=7" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis&theme=dark&perline=7" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx,vscode,neovim&theme=dark&perline=7" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+stack&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=linguagens+·+frameworks+·+infra&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 </div>
+
+<br/>
+
+<details open>
+<summary><b>🔴 &nbsp;linguagens principais</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,py,c,java,ruby,lua&theme=dark&perline=7" />
+</div>
+<br/>
+</details>
+
+<details open>
+<summary><b>🔴 &nbsp;web & frontend</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,figma&theme=dark&perline=7" />
+</div>
+<br/>
+</details>
+
+<details open>
+<summary><b>🔴 &nbsp;backend, banco & infra</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx,vscode,neovim&theme=dark&perline=7" />
+</div>
+<br/>
+</details>
 
 ---
 
-<!-- ══════════════════════════  STATS  ══════════════════════════ -->
+<!-- ══════════════════════════════════  STATS  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+stats&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=commits+·+streaks+·+linguagens&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+stats&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=commits+·+streaks+·+linguagens&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 <br/><br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yslx0&show_icons=true&theme=dark&hide_border=true&title_color=e02020&icon_color=e02020&text_color=888888&bg_color=0d0d0d&count_private=true&include_all_commits=true&rank_icon=github&custom_title=yslx0+·+github+stats" />
@@ -161,12 +190,10 @@ const yslx0 = {
 
 ---
 
-<!-- ══════════════════════════  ACTIVITY  ══════════════════════════ -->
+<!-- ══════════════════════════════════  ACTIVITY  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+atividade&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=contribui%C3%A7%C3%B5es+dos+%C3%BAltimos+31+dias&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+atividade&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=contribui%C3%A7%C3%B5es+dos+%C3%BAltimos+31+dias&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yslx0&theme=react-dark&bg_color=0d0d0d&color=555555&line=e02020&point=e02020&area=true&hide_border=true&area_color=1a0000&radius=6&custom_title=contribution+graph" width="100%" />
@@ -175,12 +202,10 @@ const yslx0 = {
 
 ---
 
-<!-- ══════════════════════════  TROPHIES  ══════════════════════════ -->
+<!-- ══════════════════════════════════  TROPHIES  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+troféus&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=conquistas&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+troféus&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=conquistas&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=yslx0&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
@@ -189,13 +214,18 @@ const yslx0 = {
 
 ---
 
-<!-- ══════════════════════════  EXPLORANDO  ══════════════════════════ -->
+<!-- ══════════════════════════════════  EXPLORANDO  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+explorando+agora&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=o+que+est%C3%A1+no+radar&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+explorando+agora&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=o+que+est%C3%A1+no+radar&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
+</div>
 
 <br/>
+
+<details open>
+<summary><b>🔴 &nbsp;stack atual de aprendizado — clique para expandir</b></summary>
+<br/>
+<div align="center">
 
 | `#` | área | tech | status | `progresso` |
 |:---:|:-----|:-----|:------:|:-----------|
@@ -208,24 +238,37 @@ const yslx0 = {
 | 07 | tools | Neovim | 🔴 sofrendo | `████░░░░░░ 40%` |
 | 08 | conceitos | Clean Architecture | 🟡 estudo | `██████░░░░ 60%` |
 
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🟡 &nbsp;próximas tecnologias na fila</b></summary>
 <br/>
 
 ```
-próximas: [ Rust ]  [ Go ]  [ WebAssembly ]  [ Bun ]  [ Kubernetes ]
+[ ] Rust          — performance sem igual. tá no radar.
+[ ] Go            — concorrência de verdade. breve.
+[ ] WebAssembly   — o futuro da web.
+[ ] Kubernetes    — depois de dominar Docker completamente.
+[ ] Bun           — Node killer? vamos ver.
 ```
 
-</div>
+<br/>
+</details>
 
 ---
 
-<!-- ══════════════════════════  TIMELINE  ══════════════════════════ -->
+<!-- ══════════════════════════════════  TIMELINE  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+timeline&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=de+onde+vim%2C+onde+cheguei&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+timeline&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=de+onde+vim%2C+onde+cheguei&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
 </div>
 
+<br/>
+
+<details open>
+<summary><b>📅 &nbsp;jornada completa — 2022 → agora</b></summary>
 <br/>
 
 ```
@@ -257,15 +300,23 @@ próximas: [ Rust ]  [ Go ]  [ WebAssembly ]  [ Bun ]  [ Kubernetes ]
   └── 🟢  agora ─────────────────►  construindo. sempre.
 ```
 
+<br/>
+</details>
+
 ---
 
-<!-- ══════════════════════════  SETUP  ══════════════════════════ -->
+<!-- ══════════════════════════════════  SETUP  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+setup&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=ambiente+de+trabalho&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+setup&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=ambiente+de+trabalho&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
+</div>
 
 <br/>
+
+<details>
+<summary><b>💻 &nbsp;hardware & software</b></summary>
+<br/>
+<div align="center">
 
 | componente | escolha |
 |:----------:|:--------|
@@ -279,16 +330,46 @@ próximas: [ Rust ]  [ Go ]  [ WebAssembly ]  [ Bun ]  [ Kubernetes ]
 | 🌙 pico | `22h → 2h` |
 
 </div>
+<br/>
+</details>
+
+<details>
+<summary><b>⚡ &nbsp;aliases do terminal que uso todo dia</b></summary>
+<br/>
+
+```bash
+alias gs="git status"        alias ga="git add ."
+alias gc="git commit -m"     alias gp="git push"
+alias gl="git log --oneline --graph --decorate"
+alias dev="npm run dev"      alias build="npm run build"
+alias py="python3"           alias ll="ls -la --color=auto"
+alias ports="ss -tulpn"      alias myip="curl ifconfig.me"
+alias weather="curl wttr.in/Candido+Mota"
+```
+
+<br/>
+</details>
+
+<details>
+<summary><b>🧩 &nbsp;extensões VS Code obrigatórias</b></summary>
+<br/>
+
+```
+Prettier · ESLint · GitLens · Error Lens · Thunder Client
+Auto Rename Tag · Path Intellisense · TODO Highlight
+Bracket Pair Color · Material Icon Theme
+```
+
+<br/>
+</details>
 
 ---
 
-<!-- ══════════════════════════  SPOTIFY  ══════════════════════════ -->
+<!-- ══════════════════════════════════  SPOTIFY  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+ouvindo+agora&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=soundtrack+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+ouvindo+agora&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=soundtrack+do+c%C3%B3digo&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
+<br/><br/>
 
 [![Spotify](https://spotify-github-profile.kittinan.app/wrap/api/v1/fetch/top-tracks-compact?uid=SEU_UID_AQUI&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=e02020&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -298,13 +379,11 @@ próximas: [ Rust ]  [ Go ]  [ WebAssembly ]  [ Bun ]  [ Kubernetes ]
 
 ---
 
-<!-- ══════════════════════════  CONTACT  ══════════════════════════ -->
+<!-- ══════════════════════════════════  CONTACT  ══════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+contato&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=onde+me+encontrar&descAlign=50&descSize=11&descAlignY=88&descColor=555555" width="80%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=50&text=%2F%2F+contato&fontAlign=50&fontColor=e02020&fontSize=20&animation=fadeIn&fontAlignY=65&desc=onde+me+encontrar&descAlign=50&descSize=11&descAlignY=88&descColor=444444" width="80%"/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-e02020?style=for-the-badge&logoColor=white)](https://yslx0.github.io)
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yslx0)
@@ -321,7 +400,7 @@ próximas: [ Rust ]  [ Go ]  [ WebAssembly ]  [ Bun ]  [ Kubernetes ]
 
 </div>
 
-<!-- ══════════════════════════  FOOTER  ══════════════════════════ -->
+<!-- ══════════════════════════════════  FOOTER  ══════════════════════════════════ -->
 
 <br/>
 
